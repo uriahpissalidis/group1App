@@ -6,3 +6,5 @@ Build a web app that allows users to contact customer support through various di
 4. Send text messages through phone number to a designated Admin number 
 5. Be able to find live location and share it 
 6. Take pictures and be able to share it
+
+First Meeting 08/22/22
